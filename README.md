@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+#### 
 
 <!--
 **hyunwoo9120/hyunwoo9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <a href="https://github.com/hyunwoo9120">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyunwoo9120&hide=stars,issues&show_icons=true" />
+  </a>
+<p>👻&nbsp;<strong>Me</strong>&nbsp;&nbsp; a Student at <em>Soongsil University</em></p>
+<p> &#10024;&nbsp;<strong>Want</strong>&nbsp;&nbsp; to be a Game Developer</p>
+<p> 🎮&nbsp;<strong>Interest</strong>&nbsp;&nbsp; Untiy, Game, Android App</p>
+<p> ✍&nbsp;<strong>Learning</strong>&nbsp;&nbsp; Socket, Web and Game Programming</p>
