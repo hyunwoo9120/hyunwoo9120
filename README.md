@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 <p>👻&nbsp;<strong>Me</strong>&nbsp;&nbsp; a Student at <em>Soongsil University</em></p>
 <p> &#10024;&nbsp;<strong>Want</strong>&nbsp;&nbsp; to be a Game Developer</p>
 <p> 🎮&nbsp;<strong>Interest</strong>&nbsp;&nbsp; Untiy, Game, Android App</p>
-<p> ✍&nbsp;<strong>Learning</strong>&nbsp;&nbsp; Socket, Web and Game Programming</p>
